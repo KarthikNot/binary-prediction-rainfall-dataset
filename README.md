@@ -1,6 +1,6 @@
 # <center><i>Kaggle Challenge</i></center>
 
-# <center> Binary Prediction with Rainfall [[link]](https://www.kaggle.com/competitions/playground-series-s5e3) <center>
+# <center> Binary Prediction with Rainfall <a href="https://www.kaggle.com/competitions/playground-series-s5e3" target="_blank">[link]</a> </center>
 
 ## <center>Playground Series - Season 5, Episode 3 <center>
 
